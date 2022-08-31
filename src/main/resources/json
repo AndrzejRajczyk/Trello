@@ -1,0 +1,12 @@
+{
+"carName": "Office Car",
+"carBrand":"Fiat",
+"enginCapacity": "2.0".
+"CarSeat":[{"material": "cotton", "color":"white"}, {},{}}
+}
+
+
+
+
+Table[1][2];
+"tablica"[["nazwa":"1"],[2]];
